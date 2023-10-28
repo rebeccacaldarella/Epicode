@@ -1,0 +1,51 @@
+Windows 11 Home 64-bit
+
+
+- CPU:
+Cores	10
+Threads	12
+Nome:	Intel Processor
+Specifiche:	12th Gen Intel Core i5-1235U
+
+Family	6
+Extended Family	6
+Model	A
+Extended Model	9A
+Stepping	4
+Instructions	MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, Intel 64, NX, AES, AVX, AVX2, FMA3
+Virtualization	Not supported
+Hyperthreading	Supported, Disabled
+	Caches
+		L1 Data Cache Size	10 x 48 KBytes
+		L1 Instructions Cache Size	10 x 32 KBytes
+		L2 Unified Cache Size	4 x 1280 KBytes
+		L3 Unified Cache Size	12288 KBytes
+
+
+- RAM (8GB):
+
+Memory
+	Size	7864 MBytes
+Physical Memory
+	Memory Usage	92 %
+	Total Physical	7.68 GB
+	Available Physical	556 MB
+	Total Virtual	30 GB
+	Available Virtual	19 GB
+SPD
+	Number Of SPD Modules	0
+
+
+
+
+- Disco: 
+Disco 0 - layout semplice - di base - 476,92 GB - Stato: integro, partizione di sistema EFI - capacità 260 MB - spazio 260 MB - disponibile 100%
+Disco 0 layout semplice - di base - 476,92 GB - Stato: integro, partizione di sistema EFI - capacità 597 MB - spazio 597 MB - disponibile 100%
+Windows C : layout semplice - di base - file system NTFS (crittografato con BitLocker) -  Stato: integro, avvio, file di paging,.. - capacità 476,08 GB - spazio 356,57 GB - disponibile 75%
+
+
+
+
+- Graphics
+	Generic PnP Monitor (1920x1080@60Hz)
+	Intel Iris Xe Graphics (HP)
